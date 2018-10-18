@@ -6,4 +6,4 @@ var name = "Joe"
 module.exports = { name, height
 }
 
-n
+
